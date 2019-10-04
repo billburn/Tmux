@@ -8,7 +8,7 @@ Temporarily close TMUX session:
 (control + a d)
 
 Reattach to TMUX session:  
-tmux attach -t <name of session> => tmux attach -t HT                                                                 B
+tmux attach -t <name of session> => tmux attach -t HTB
 tmux a -t <name of session> (shorthand)
 
 Copy / Paste Text
@@ -19,8 +19,8 @@ When in copy mode, search for text:
 control key + / (for searching down)
 control + ? (for searching up)
 
-To copy text, when in copy mode: control + spacebar => highlight the text you wa                                                                 nt by scrolling up or down
-Copy the text (see steps aboce to get into copy mode and highlight the text you                                                                  want): alt + w to copy to the clipboard
+To copy text, when in copy mode: control + spacebar => highlight the text you want by scrolling up or down
+Copy the text (see steps aboce to get into copy mode and highlight the text you want): alt + w to copy to the clipboard
 Paste text: control + a ]
 
 Splitting the Panes
@@ -28,4 +28,4 @@ Split pane vertically (up and down): control + a %
 Split pane horizontally (sideways): control + a "
 
 Moving between panes
-Use the command key + direction on the keypad: control + a <- or -> or ^ or down                                                                  arrow
+Use the command key + direction on the keypad: control + a <- or -> or ^ or down arrow
